@@ -1,0 +1,8 @@
+it's about how to use useMutation and axios D;
+
+  const loginAdminStepOne: any = useMutation(loginAdmin1);
+  const handlSubmit = () => {
+    loginAdminStepOne.mutate({
+      phone: phone,
+    });
+  };

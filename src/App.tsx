@@ -2,9 +2,16 @@ import React from 'react';
 
 function App() {
   return (
- <>
- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores libero pariatur nostrum voluptates id necessitatibus rem animi, reiciendis mollitia optio earum, veritatis quasi ut vel cupiditate at perferendis distinctio. Officiis?</p>
- </>
+    <>
+      <div>
+        <article>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora
+          voluptatibus neque ut dolorem laudantium cum fuga voluptatem est
+          repellendus quam vitae nostrum sapiente dicta officiis quidem cumque
+          maiores, sequi laboriosam.
+        </article>
+      </div>
+    </>
   );
 }
 
